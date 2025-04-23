@@ -1,0 +1,2 @@
+# calorie-counter
+ This Calorie Counter web application, built using fundamental front-end technologies (HTML, CSS, and JavaScript), provides a simple yet effective way to monitor your daily food intake and track your calorie goals. Designed with a clean and intuitive interface, this app allows users to easily log their meals and snacks, view a breakdown of their consumed calories, and stay informed about their progress
